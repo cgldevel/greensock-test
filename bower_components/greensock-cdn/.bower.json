@@ -1,0 +1,25 @@
+{
+  "name": "greensock-cdn",
+  "main": "greensock-cdn.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.9.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/EberlyODL/greensock",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "1443edb36a91763a670be06afc4cae59914f9283"
+  },
+  "_source": "https://github.com/EberlyODL/greensock.git",
+  "_target": "^0.0.1",
+  "_originalSource": "EberlyODL/greensock",
+  "_direct": true
+}
